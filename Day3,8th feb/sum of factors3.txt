@@ -1,0 +1,14 @@
+step1:start
+step2:declare i,n,fact
+step3:read n
+step4:initialize  i=1 and factors=0
+step5:check i value with n
+if (i<=n/2)then 
+      go to step6
+      else
+      go to step7
+step6:if (n%i==0) then
+         fact=fact+i
+         increament i go to step5
+step7:display factors
+step8:stop

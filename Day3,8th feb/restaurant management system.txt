@@ -1,0 +1,11 @@
+s1:login restaurant app
+s2:enter username and password
+s3:display the homepage
+s4:select table order menu
+    enter table id,date,time
+s5:select kitchan menu
+s6:select item order 
+   enter item id,item name,quantity,price
+s7:select employee
+    containing userid,email,role,password
+s8:stop
