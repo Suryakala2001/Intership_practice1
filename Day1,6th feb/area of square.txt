@@ -1,4 +1,5 @@
 find area of square
+
 step1:start
 step2:declare side,area
 step3:read side
